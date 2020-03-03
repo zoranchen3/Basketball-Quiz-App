@@ -8,4 +8,23 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="quizTextStyle" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">16sp</item>
+        <item name="color">@color/quizTextColor</item>
+    </style>
+
+    <style name="quizBlockStyle" parent="AppTheme">
+        <item name="android:layout_margin">15dp</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:background">@color/quizBlockColor</item>
+    </style>
+
+    <style name="imgViewStyle" parent="AppTheme">
+        <item name="android:layout_margin">10dp</item>
+    </style>
+
+    <style name="radioBtnStyle" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">16sp</item>
+    </style>
 </resources>

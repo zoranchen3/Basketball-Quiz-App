@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Basketball Quiz App</string>
+    <string name="q1_text">1.Which one is Taiwan Bank\'s Logo?</string>
+    <string name="q2_text">2.Which one is pure-youth\'s Logo?</string>
+    <string name="q3_text">2.Which one is yulon\'s Logo?</string>
+    <string name="ans1option1">台灣銀行</string>
+    <string name="ans1option2">裕隆納智傑</string>
+    <string name="ans1option3">璞園建設</string>
+
+    <string name="submit">送出</string>
+    <string name="reset">清除</string>
 </resources>
